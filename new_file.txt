@@ -2,4 +2,7 @@ hej! Nova datoteka.
 
 Moja sprememba.
 
+
 moja spremembica
+Preverimo konflikte.
+
