@@ -1,3 +1,5 @@
 hej! Nova datoteka.
 
 Moja sprememba.
+
+Preverimo konflikte.
